@@ -1,4 +1,4 @@
-# The Monarch Initiative Help Desk
+# The Monarch Initiative Helpdesk
 
 If you have a specific question about Monarch, its data, usage, software, or services, you can [create a ticket](https://github.com/monarch-initiative/helpdesk/issues/new/choose) on our issue tracker. or get live feedback in our [public Gitter room](https://gitter.im/monarch-initiative/helpdesk). We invite you to join the rest of the Monarch Initiative community on [GitHub](https://github.com/monarch-initiative)!
 
