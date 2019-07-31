@@ -1,10 +1,8 @@
 # The Monarch Initiative Help Desk
 
-Do you have general questions about the Monarch Initiative? Check our Frequently Asked Questions (coming soon), as your query may have already been answered.
+If you have a specific question about Monarch, its data, usage, software, or services, you can [create a ticket](https://github.com/monarch-initiative/helpdesk/issues/new/choose) on our issue tracker. or get live feedback in our [public Gitter room](https://gitter.im/monarch-initiative/helpdesk). We invite you to join the rest of the Monarch Initiative community on [GitHub](https://github.com/monarch-initiative)!
 
-Do you have a specific question about the Monarch Initiative, its data, usage, software, or services? [Create a ticket](https://github.com/monarch-initiative/helpdesk/issues/new/choose) on our issue tracker.
-
-More info coming soon!
+For other ways to contact us and join our community, please see our Contact page (coming soon!).
 
 <img src="https://github.com/jmcmurry/closed-illustrations/blob/master/logos/monarch-logos/monarch-logo-black-stacked.png" width="200" class="mx-auto d-block" />
 
