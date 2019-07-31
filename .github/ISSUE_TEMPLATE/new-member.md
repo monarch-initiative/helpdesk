@@ -25,5 +25,3 @@ What is the name of your organization (e.g., LBL, OSU, EMBL-EBI)?
 Which group(s) are you a part of (if not the same as above)?
 
 # Thank you for providing us with this information. 
-When you are added as a member of the Monarch GitHub project, you will automatically follow a number of repositories
-(different ones, depending on your role). By default, emails will be sent for all new and updated tickets
