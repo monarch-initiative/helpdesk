@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-## Describe the problem
+# If your bug report is about Mondo, please file a ticket here instead: https://github.com/monarch-initiative/mondo/issues
+
+## Describe the problem with the Monarch website or APIs
 
 A clear and concise description of what the issue is.
 
