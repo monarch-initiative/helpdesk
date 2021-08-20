@@ -8,3 +8,6 @@ assignees: ''
 ---
 
 **Please describe your question, suggestion, or concern.**
+
+If your question or suggestion is specific to Mondo, please submit it here instead: https://github.com/monarch-initiative/mondo/issues
+
